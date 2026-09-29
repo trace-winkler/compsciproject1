@@ -4,7 +4,7 @@ For this project I wanted to dive into making an interface for users to be able 
 
 You can see the interface below. It isn't pretty and it's very bare bones but it gets the job done. Overall I'm proud of how this project turned out. 
 
-<img width="987" height="597" alt="image" src="https://github.com/user-attachments/assets/d20fc1c3-7627-429c-b0ea-fe1e310b40ac" />
+<img width="1200" height="350" alt="image" src="https://github.com/user-attachments/assets/d20fc1c3-7627-429c-b0ea-fe1e310b40ac" />
 
 ## Functions
 
@@ -28,3 +28,7 @@ This first function is used to determine both the total and average receiving an
 
 #### Function 5 -- rec_rus_stats_te1
 This first function is used to determine both the total and average receiving and rushing (if applicable) statistics for the Tight End 1 on all NFL teams.
+
+## Other Resources
+- [Data Set](https://github.com/trace-winkler/compsciproject1/blob/main/Phase%200%20NFL%20Offensive%20Statistics.csv)
+- [Code](https://github.com/trace-winkler/compsciproject1/blob/main/nfl_stats_project%20(1).py)
