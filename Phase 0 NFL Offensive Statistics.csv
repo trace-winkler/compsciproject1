@@ -1,0 +1,97 @@
+player_position,player_name,team,games_played,total_receptions,total_targets,receiving_yards,receiving_touchdowns,total_carries,rushing_yards,rushing_touchdowns
+WR,Keon Coleman,BUF,13,38,59,404,4,0,0,0
+WR,Tyreek Hill,MIA,4,21,29,265,1,0,0,0
+WR,Stefon Diggs,NE,17,85,102,1013,4,0,0,0
+WR,Garrett Wilson,NYJ,7,36,59,395,4,0,0,0
+WR,Zay Flowers,BAL,17,86,118,1211,5,10,62,1
+WR,Ja'Marr Chase,CIN,16,125,195,1412,8,3,14,0
+WR,Jerry Jeudy,CLE,17,50,106,602,2,1,5,0
+WR,DK Metcalf,PIT,15,59,99,850,6,2,12,1
+WR,Nico Collins,HOU,15,71,120,1117,6,2,15,1
+WR,Michael Pittman Jr.,IND,17,80,111,784,7,0,0,0
+WR,Brian Thomas Jr.,JAX,14,48,91,707,2,3,21,1
+WR,Calvin Ridley,TEN,7,17,36,303,0,0,0,0
+WR,Courtland Sutton,DEN,17,74,124,1017,7,0,0,0
+WR,Rashee Rice,KC,8,53,78,571,5,5,20,1
+WR,Jakobi Meyers,LV,7,33,49,352,0,0,0,0
+WR,Ladd McConkey,LAC,16,66,106,789,6,0,0,0
+WR,CeeDee Lamb,DAL,14,75,117,1077,3,1,2,0
+WR,Malik Nabers,NYG,4,18,35,271,2,0,0,0
+WR,A.J. Brown,PHI,15,78,121,1003,7,0,0,0
+WR,Terry McLaurin,WAS,10,38,60,582,3,0,0,0
+WR,Rome Odunze,CHI,12,44,90,661,6,0,0,0
+WR,Amon-Ra St. Brown,DET,17,117,172,1401,11,3,9,0
+WR,Justin Jefferson,MIN,17,84,141,1048,2,2,7,0
+WR,Christian Watson,GB,10,35,55,611,6,1,3,0
+WR,Drake London,ATL,12,68,112,919,7,0,0,0
+WR,Tetairoa McMillan,CAR,17,70,122,1014,7,0,0,0
+WR,Chris Olave,NO,16,100,156,1163,9,1,-3,0
+WR,Mike Evans,TB,8,30,61,368,3,0,0,0
+WR,Marvin Harrison Jr.,ARI,12,41,73,608,4,0,0,0
+WR,Puka Nacua,LAR,16,129,166,1715,10,10,105,1
+WR,Juaun Jennings,SF,15,55,90,643,9,0,0,0
+WR,Jaxon-Smith-Njigba,SEA,17,119,163,1793,10,7,36,0
+RB,James Conner,ARI,3,8,9,38,1,32,95,1
+RB,Bijan Robinson,ATL,17,79,103,820,4,287,1478,7
+RB,Derrick Henry,BAL,17,15,21,150,0,307,1595,16
+RB,James Cook,BUF,17,33,40,291,2,309,1621,12
+RB,Chuba Hubbard,CAR,15,30,39,223,3,134,511,1
+RB,D'Andre Swift,CHI,16,34,48,299,1,223,1087,9
+RB,Chase Brown,CIN,17,69,88,437,5,232,1019,6
+RB,Quinshon Judkins,CLE,14,26,36,171,0,230,827,7
+RB,Javonte Williams,DAL,16,35,51,137,2,252,1201,11
+RB,J.K. Dobbins,DEN,10,11,14,27,0,153,772,4
+RB,Jahmyr Gibbs,DET,17,77,94,616,5,243,1223,13
+RB,Josh Jacobs,GB,15,36,44,282,1,234,929,13
+RB,Joe Mixon,HOU,14,36,52,309,1,245,1016,11
+RB,Jonathan Taylor,IND,17,46,55,378,2,323,1585,18
+RB,Travis Etienne Jr.,JAX,17,36,52,292,6,260,1107,7
+RB,Isiah Pacheco,KC,13,19,26,101,1,118,462,1
+RB,Ashton Jeanty,LV,17,55,73,346,5,266,975,5
+RB,Omarion Hampton,LAC,9,32,35,192,1,124,545,4
+RB,Kyren Williams,LAR,17,36,50,281,3,259,1252,10
+RB,De'Von Achane,MIA,16,67,85,488,4,238,1350,8
+RB,Aaron Jones,MIN,12,28,41,199,1,132,548,2
+RB,Rhamondre Stevenson,NE,14,32,37,345,2,130,602,7
+RB,Alvin Kamara,NO,11,33,39,186,0,131,471,1
+RB,Cam Skattebo,NYG,8,24,32,207,2,101,410,5
+RB,Breece Hall,NYJ,16,36,48,350,1,243,1065,4
+RB,Saquon Barkley,PHI,16,37,50,273,2,280,1140,7
+RB,Jaylen Warren,PIT,16,40,45,333,2,211,958,6
+RB,Kenneth Walker III,SEA,17,31,36,282,0,221,1027,5
+RB,Christian McCaffrey,SF,17,102,129,924,7,311,1202,10
+RB,Bucky Irving,TB,10,30,35,277,3,173,588,1
+RB,Tony Pollard,TEN,17,33,41,206,0,242,1082,5
+RB,Jacory Croskey-Merritt,WAS,17,9,13,68,0,175,805,8
+TE,Trey McBride,ARI,17,126,169,1239,11,0,0,0
+TE,Kyle Pitts Sr.,ATL,17,88,118,928,5,0,0,0
+TE,Mark Andrews,BAL,17,48,70,422,5,10,48,1
+TE,Dalton Kincaid,BUF,12,39,49,571,5,0,0,0
+TE,Tommy Tremble,CAR,17,27,37,249,2,0,0,0
+TE,Cole Kmet,CHI,16,30,48,347,2,0,0,0
+TE,Mike Gesicki,CIN,13,28,42,307,2,0,0,0
+TE,Harold Fannin Jr.,CLE,16,72,107,731,6,7,13,1
+TE,Jake Ferguson,DAL,17,82,102,600,8,1,1,0
+TE,Evan Engram,DEN,16,50,76,461,1,1,7,0
+TE,Sam LaPorta,DET,9,40,49,489,3,0,0,0
+TE,Tucker Kraft,GB,8,32,44,489,6,1,3,0
+TE,Dalton Shultz,HOU,17,82,106,777,3,0,0,0
+TE,Tyler Warren,IND,17,76,112,817,4,6,8,1
+TE,Brenton Strange,JAX,12,46,60,540,3,0,0,0
+TE,Travis Kelce,KC,17,76,108,851,5,1,1,0
+TE,Brock Bowers,LV,12,64,86,680,7,2,2,0
+TE,Will Dissly,LAC,9,11,16,97,0,1,7,0
+TE,Tyler Higbee,LAR,10,25,36,281,3,0,0,0
+TE,Darren Waller,MIA,9,24,34,283,6,1,4,0
+TE,T.J. Hockenson,MIN,15,51,66,438,3,1,0,0
+TE,Hunter Henry,NE,17,60,87,768,7,0,0,0
+TE,Juwan Johnson,NO,17,77,102,889,3,0,0,0
+TE,Theo Johnson,NYG,15,45,74,528,5,0,0,0
+TE,Mason Taylor,NYJ,13,44,65,369,1,0,0,0
+TE,Dallas Goedert,PHI,15,60,82,591,11,0,0,0
+TE,Pat Freiermuth,PIT,17,41,54,486,4,0,0,0
+TE,George Kittle,SF,11,57,69,628,7,1,-3,0
+TE,AJ Barner,SEA,17,52,68,519,6,10,14,1
+TE,Cade Otton,TB,16,59,81,572,1,0,0,0
+TE,Chig Okonkwo,TEN,17,56,79,560,2,0,0,0
+TE,Zach Ertz,WAS,13,50,72,504,4,0,0,0
