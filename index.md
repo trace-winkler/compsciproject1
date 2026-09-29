@@ -7,28 +7,29 @@ You can see the interface below. It isn't pretty and it's very bare bones but it
 <img width="1200" height="350" alt="image" src="https://github.com/user-attachments/assets/d20fc1c3-7627-429c-b0ea-fe1e310b40ac" />
 
 ## Functions
-
 For this project, I wanted to make sure that the functions were clearly defined so that I didn't get confused during the coding process.
-
 All data that you see used in this program is is from the 2025-26 NFL regular season, and I collected it myself which was a lot of fun. 
 
-#### Function 1 -- load_data(filename)
+### Function 1 -- load_data(filename)
 This function is simply used to open the workbook. After doing this, it will read every row after the header, and return a list of dictionaries. Each dictionary contains one player, their position, name, team, games played, total receptions, total targets, receiving yards, receiving touchdowns, total carries, rushing yards, and rushing touchdowns. A large amount of wide receivers and tight ends have no rushing stats. 
-
 If the function doesn't find either a player or team, it returns an error that allows the user another opportunity to input a player or team name. 
 
-#### Function 2 -- print_receiving_block(player)
+### Function 2 -- print_receiving_block(player)
 This function was my favorite to code, as it allowed me to finally compile all of the statistical data that I collected. Long story short, this function simply prints the statistics of the player requested. 
 
-#### Function 3 -- rec_rus_stats_wr1
+### Function 3 -- rec_rus_stats_wr1
 This first function is used to determine both the total and average receiving and rushing (if applicable) statistics for the Wide Receiver 1 on all NFL teams. 
 
-#### Function 4 -- rec_rus_stats_rb1
+### Function 4 -- rec_rus_stats_rb1
 This first function is used to determine both the total and average receiving and rushing statistics for the Running Back 1 on all NFL teams.
 
-#### Function 5 -- rec_rus_stats_te1
+### Function 5 -- rec_rus_stats_te1
 This first function is used to determine both the total and average receiving and rushing (if applicable) statistics for the Tight End 1 on all NFL teams.
 
 ## Other Resources
 - [Data Set](https://github.com/trace-winkler/compsciproject1/blob/main/Phase%200%20NFL%20Offensive%20Statistics.csv)
 - [Code](https://github.com/trace-winkler/compsciproject1/blob/main/nfl_stats_project%20(1).py)
+
+### Return to the [Project Directory](https://trace-winkler.github.io/project-directory/)
+### Return to the [Homepage](https://trace-winkler.github.io/data-science-portfolio/)
+### Check out my [Blog](https://trace-winkler.github.io/blog/)
